@@ -1,4 +1,4 @@
-#Prerequisites
+# Prerequisites
 The API uses mongo db for persistence. It expects to have a user db with the following collections: accounts, transactions, users.
 The users collection should already be populated with some users e.g:
 ```
